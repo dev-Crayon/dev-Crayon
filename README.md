@@ -12,4 +12,4 @@
     * Java/Spring
 * * *
 ### 나의 이력
-블로그: [Crayon's Blog](https://crayonlee.tistory.com/, "Blog 바로가기")
+블로그: [Crayon's Blog](https://crayonlee.tistory.com/ "Blog 바로가기")
