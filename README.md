@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome&fontSize=90&fontColor=ffffff&desc=Crayon's%20Github&descAlign=70.&descAlignY=70)
 <br>
-#### 안녕하세요 백엔드 개발자로 성장중인 대학생 이승헌입니다.<br>
+#### 안녕하세요 백엔드 개발자가 되기위해 공부중인 이승헌입니다.<br>
 #### 매일매일 한 걸음씩 성장하는 중입니다.
 ---
 
