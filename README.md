@@ -13,7 +13,7 @@
 </div>
 <br>
 <div align="center">
-  🐬 Tech Stack 🐬
+  🐬 Server Tech Stack 🐬
 </div>
 <br>
 <div align="center" width=60% margin-top="30px">
@@ -25,6 +25,15 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</div>
+<br>
+
+<div align="center">
+  👾 Client Tech Stack 👾
+</div>
+<br>
+<div align="center" width=60% margin-top="30px">
+  <img src="https://img.shields.io/badge/Swift-C32532?style=flat-square&logo=swift&logoColor=white"/>
 </div>
 <br>
 
