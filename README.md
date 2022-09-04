@@ -38,6 +38,15 @@
 <br>
 
 <div align="center">
+  🐠 BOJ status 🐠
+</div>
+<br>
+
+<div align=center>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsh328328)](https://solved.ac/lsh328328/)
+
+<div align="center">
   🐳 Github status 🐳
 </div>
 <br>
