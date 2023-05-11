@@ -7,11 +7,6 @@
 <div align="center">
   🎃 SNS List 🎃
 </div>
-<br>
-<div align="center" width=60% margin-top="30px">
-  <a href="https://velog.io/@lsh328328" target="_blank"><img src="https://img.shields.io/badge/velog-2bc38b?style=flat-square&logo=velog&logoColor=white"/></a>
-</div>
-<br>
 <div align="center">
   🐬 Server Tech Stack 🐬
 </div>
