@@ -5,9 +5,6 @@
 ---
 
 <div align="center">
-  🎃 SNS List 🎃
-</div>
-<div align="center">
   🐬 Server Tech Stack 🐬
 </div>
 <br>
